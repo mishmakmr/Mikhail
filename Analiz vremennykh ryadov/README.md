@@ -45,7 +45,8 @@ pip install pandas numpy matplotlib seaborn statsmodels pmdarima scikit-learn te
 ## Как запустить
 Поместите файл данных (например, ittensive.time.series.04.csv) в ту же папку, где находится скрипт.
 Запустите скрипт командой:
-bash Готовое решение.py.py
+bash
+python Analiz_vremennykh_ryadov.py
 Скрипт выполнит анализ, построит графики и выведет прогноз на 30 дней вперед.
 
 ## Основные функции
