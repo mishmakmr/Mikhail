@@ -21,3 +21,4 @@
 
 ```bash
 git clone https://github.com/mishmakmr/Mikhail.git
+- [7 задач по статистике](7_zadach/README.md)
