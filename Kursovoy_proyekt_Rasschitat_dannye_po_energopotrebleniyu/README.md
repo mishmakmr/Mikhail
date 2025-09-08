@@ -4,7 +4,7 @@
 
 ## Содержание
 - [Описание проекта](#project-description)
-- [Структура решения](#solution-structure)
+- [Stруктура решения](#solution-structure)
 - [Технологии](#technologies)
 - [Установка и запуск](#installation)
 - [Файлы проекта](#project-files)
