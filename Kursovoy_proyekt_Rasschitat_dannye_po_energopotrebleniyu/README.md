@@ -60,7 +60,6 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/mishmakmr/Mikhail.git
-cd Mikhail
 ```
 2. Установите зависимости:
 bash
