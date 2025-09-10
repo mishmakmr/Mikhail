@@ -11,7 +11,7 @@
 - [Результаты](#results)
 - [Визуализация](#visualization)
 
-## Описание проекта {#project-description}
+## <a id="project-description"></a> Описание проекта
 
 Проект решает задачу прогнозирования энергопотребления для 50 зданий с использованием ансамбля из четырех моделей линейной регрессии. Каждая модель использует разные группы признаков:
 
@@ -22,7 +22,7 @@
 
 Финальный прогноз вычисляется как взвешенное среднее предсказаний всех моделей.
 
-## Структура решения {#solution-structure}
+## <a id="solution-structure"></a> Структура решения
 
 1. **Загрузка данных**:
    - Метаданные зданий
@@ -45,7 +45,7 @@
      - Только 50 целевых зданий
      - Все здания с заполнением нулями
 
-## Технологии {#technologies}
+## <a id="technologies"></a> Технологии
 
 - **Python 3**
 - **Библиотеки**:
@@ -55,7 +55,7 @@
   - Matplotlib - визуализация
 - **Метрика качества**: RMSLE (Root Mean Squared Logarithmic Error)
 
-## Установка и запуск {#installation}
+## <a id="installation"></a> Установка и запуск
 
 1. Клонируйте репозиторий:
 ```bash
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 bash
 python "Kursovoy_proyekt_Rasschitat_dannye_po_energopotrebleniyu.py"
 
-## Файлы проекта {#project-files}
+## <a id="project-files"></a> Файлы проекта
 
 Kursovoy_proyekt_Rasschitat_dannye_po_energopotrebleniyu.py - основной скрипт
 После запуска скрипта будут созданы следующие файлы:
@@ -79,7 +79,8 @@ README.md - документация
 requirements.txt - зависимости
 Kursovoy_proyekt_Rasschitat_dannye_po_energopotrebleniyu/images/models_comparison.png - график сравнения моделей
 
-## Результаты {#results}
+## <a id="results"></a> Результаты
+
 Модели показали следующие результаты (RMSLE):
 ### Таблица результатов (RMSLE)
 | Модель             | Кросс-валидация | Валидация   |
@@ -90,7 +91,8 @@ Kursovoy_proyekt_Rasschitat_dannye_po_energopotrebleniyu/images/models_compariso
 | Месяцы             | 0.3638           | 0.3651     |
 | **Ансамбль**       | —                | **0.7636** |
 
-## Визуализация {#visualization}
+## <a id="visualization"></a> Визуализация
+
 Сравнение качества моделей (RMSLE)
 https://raw.githubusercontent.com/mishmakmr/Mikhail/master/Kursovoy_proyekt_Rasschitat_dannye_po_energopotrebleniyu/images/models_comparison.png
 
