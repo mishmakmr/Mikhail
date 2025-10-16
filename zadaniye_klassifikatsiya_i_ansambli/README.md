@@ -14,10 +14,12 @@
 - **Ансамблевые методы**: Стекинг (Stacking)
 
 ## Структура проекта
+<pre>
 project/
 ├── zadaniye_klassifikatsiya_i_ansambli.py  # Основной скрипт
 ├── submission_stacking.csv                  # Файл с предсказаниями
 └── README.md                                # Документация
+</pre>
 
 ## Методология
 
