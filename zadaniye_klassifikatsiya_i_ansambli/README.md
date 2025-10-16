@@ -15,9 +15,9 @@
 
 ## Структура проекта
 project/
-|── zadaniye_klassifikatsiya_i_ansambli.py # Основной скрипт
-|── submission_stacking.csv # Файл с предсказаниями
-|── README.md # Документация
+├── zadaniye_klassifikatsiya_i_ansambli.py # Основной скрипт
+├── submission_stacking.csv # Файл с предсказаниями
+└── README.md # Документация
 
 ## Методология
 
