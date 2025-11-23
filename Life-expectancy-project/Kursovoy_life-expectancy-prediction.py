@@ -3,7 +3,7 @@
 Прогнозирование продолжительности жизни с использованием ансамблевых методов
 Life Expectancy Prediction using Ensemble Methods
 
-Автор: [Makarin Mikhail
+Автор: [Makar'yin Mikhail]
 Date: 2025
 """
 
